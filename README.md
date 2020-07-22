@@ -3,6 +3,9 @@ This is a demo of using KubeFlow on AWS EKS to automate the machine learning wor
 EKS Setup
 1. Install and configure the AWS CLI: shorturl.at/fjtxX
 2. Install eksctl: shorturl.at/gvHP8
+3. Intall kfctl: shorturl.at/ftHJS
+
+KubeFlow Setup
 
 working...
 
